@@ -1,3 +1,17 @@
+/*
+  ******************************************************************************
+  * @file    SerialService
+  
+  
+  * @author  HÉCTOR RAMÓN RIZO
+  
+  
+  * @date    22/06/2022
+  ******************************************************************************
+  */
+
+/* INCLUDES */
+
 #include "ThreadInterface.h"
 
 pthread_t serial_protocol_t, server_tcp_t;
